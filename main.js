@@ -3,16 +3,15 @@ document.addEventListener("DOMContentLoaded", function () {
     var mostrarMensagemBtn = document.getElementById("mostrarMensagem");
 
     mostrarMensagemBtn.addEventListener("click", function () {
-        mensagem.innerHTML = "Queridos professores, hoje é o dia de celebrar vocês, " +
-        "os verdadeiros heróis que moldam mentes e inspiram sonhos. " +
-        "Em cada sala de aula, vocês desempenham um papel vital na formação do futuro. " +
-        "Seu comprometimento, paixão e dedicação são admiráveis e dignos de reconhecimento. " +
-        "Vocês não apenas compartilham conhecimento, mas também cultivam valores, orientam e apoiam os sonhos de seus alunos. " +
-        "Com paciência infinita, vocês transformam desafios em oportunidades de aprendizado e capacitam os jovens a serem cidadãos responsáveis e pensadores críticos. " +
-        "Neste Dia dos Professores, quero expressar minha mais profunda gratidão por tudo o que vocês fazem. " +
-        "Vocês são faróis de luz na jornada educacional de todos nós, iluminando o caminho com sabedoria e compreensão. " +
-        "Obrigado por inspirarem, orientarem e ajudarem a construir um futuro melhor para todos. " +
-        "Feliz Dia dos Professores!";
-    });
+        mensagem.innerHTML = "Parabéns pelo seu comprometimento em moldar mentes jovens e inspirar futuras gerações.Seu amor pela educação é inspirador. Parabéns por ser um professor tão dedicado.
+        "Ninguém merece mais reconhecimento do que você pelo seu trabalho incansável em sala de aula."
+        "eu compromisso com o aprendizado é uma luz brilhante no caminho de muitos. Parabéns por ser um professor incrível."
+    "Cada dia na sua aula é um dia de aprendizado e crescimento. "
+
+
+
+
+
+
 });
 
